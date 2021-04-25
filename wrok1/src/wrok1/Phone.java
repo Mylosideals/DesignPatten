@@ -1,5 +1,4 @@
 package wrok1;
 
-public interface Phone {
-
-}
+public interface Phone {}
+class iPhone implements Phone{}
